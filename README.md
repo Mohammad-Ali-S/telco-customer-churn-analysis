@@ -14,4 +14,4 @@ An end-to-end data analytics project investigating customer churn patterns for a
 * **Internet Service:** Fiber optic users make up a major share of total churned volume.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.jpg)
